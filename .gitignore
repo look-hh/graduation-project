@@ -1,0 +1,28 @@
+# 工具配置
+.claude/
+.workbuddy/
+
+# Node
+node_modules/
+
+# Keil MDK 编译输出
+Objects/
+Listings/
+DebugConfig/
+
+# JLink
+JLinkLog.txt
+JLinkSettings.ini
+
+# 用户配置文件
+Project.uvguix.*
+Project.uvoptx
+
+# VSCode 日志
+.vscode/keil-assistant.log
+.vscode/uv4.log
+.vscode/uv4.log.lock
+
+# 临时文件
+~$*
+*.scvd
